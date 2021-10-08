@@ -1,0 +1,9 @@
+C:\Users\Admin\source\repos\bluxa\ProyectoDekkerPeterson\ProyectoDekkerPeterson\bin\Debug\ProyectoDekkerPeterson.exe.config
+C:\Users\Admin\source\repos\bluxa\ProyectoDekkerPeterson\ProyectoDekkerPeterson\bin\Debug\ProyectoDekkerPeterson.exe
+C:\Users\Admin\source\repos\bluxa\ProyectoDekkerPeterson\ProyectoDekkerPeterson\bin\Debug\ProyectoDekkerPeterson.pdb
+C:\Users\Admin\source\repos\bluxa\ProyectoDekkerPeterson\ProyectoDekkerPeterson\obj\Debug\ProyectoDekkerPeterson.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\bluxa\ProyectoDekkerPeterson\ProyectoDekkerPeterson\obj\Debug\ProyectoDekkerPeterson.Properties.Resources.resources
+C:\Users\Admin\source\repos\bluxa\ProyectoDekkerPeterson\ProyectoDekkerPeterson\obj\Debug\ProyectoDekkerPeterson.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\bluxa\ProyectoDekkerPeterson\ProyectoDekkerPeterson\obj\Debug\ProyectoDekkerPeterson.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\bluxa\ProyectoDekkerPeterson\ProyectoDekkerPeterson\obj\Debug\ProyectoDekkerPeterson.exe
+C:\Users\Admin\source\repos\bluxa\ProyectoDekkerPeterson\ProyectoDekkerPeterson\obj\Debug\ProyectoDekkerPeterson.pdb
