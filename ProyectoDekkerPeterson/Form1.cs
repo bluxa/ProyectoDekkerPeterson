@@ -1,4 +1,5 @@
-﻿using System;
+﻿using ProyectoDekkerPeterson.Clases;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -14,6 +15,8 @@ namespace ProyectoDekkerPeterson
     public partial class Form1 : Form
     {
         delegate void delegado(int valor);
+
+        
 
         public static String GetTimestamp(DateTime value)
         {
@@ -45,6 +48,14 @@ namespace ProyectoDekkerPeterson
         public void ActualizarFactorial(int valor)
         {
             textBox2.Text = textBox2.Text + GetTimestamp(DateTime.Now) + " - " + "Atendiendo Uso De Hilos Factorial 1:   " + valor + "\r\n";
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            usuario n = new usuario("Byron", "Armando",5,18);
+
+            MessageBox.Show(n.ToString());
+            
         }
     }
 }

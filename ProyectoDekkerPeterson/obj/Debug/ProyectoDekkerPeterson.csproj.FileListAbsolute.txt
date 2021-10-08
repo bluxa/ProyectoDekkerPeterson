@@ -7,3 +7,13 @@ C:\Users\Admin\source\repos\bluxa\ProyectoDekkerPeterson\ProyectoDekkerPeterson\
 C:\Users\Admin\source\repos\bluxa\ProyectoDekkerPeterson\ProyectoDekkerPeterson\obj\Debug\ProyectoDekkerPeterson.csproj.CoreCompileInputs.cache
 C:\Users\Admin\source\repos\bluxa\ProyectoDekkerPeterson\ProyectoDekkerPeterson\obj\Debug\ProyectoDekkerPeterson.exe
 C:\Users\Admin\source\repos\bluxa\ProyectoDekkerPeterson\ProyectoDekkerPeterson\obj\Debug\ProyectoDekkerPeterson.pdb
+C:\Users\Admin\source\repos\bluxa2017\bluxa\ProyectoDekkerPeterson\ProyectoDekkerPeterson\bin\Debug\ProyectoDekkerPeterson.exe.config
+C:\Users\Admin\source\repos\bluxa2017\bluxa\ProyectoDekkerPeterson\ProyectoDekkerPeterson\bin\Debug\ProyectoDekkerPeterson.exe
+C:\Users\Admin\source\repos\bluxa2017\bluxa\ProyectoDekkerPeterson\ProyectoDekkerPeterson\bin\Debug\ProyectoDekkerPeterson.pdb
+C:\Users\Admin\source\repos\bluxa2017\bluxa\ProyectoDekkerPeterson\ProyectoDekkerPeterson\obj\Debug\ProyectoDekkerPeterson.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\bluxa2017\bluxa\ProyectoDekkerPeterson\ProyectoDekkerPeterson\obj\Debug\ProyectoDekkerPeterson.Form1.resources
+C:\Users\Admin\source\repos\bluxa2017\bluxa\ProyectoDekkerPeterson\ProyectoDekkerPeterson\obj\Debug\ProyectoDekkerPeterson.Properties.Resources.resources
+C:\Users\Admin\source\repos\bluxa2017\bluxa\ProyectoDekkerPeterson\ProyectoDekkerPeterson\obj\Debug\ProyectoDekkerPeterson.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\bluxa2017\bluxa\ProyectoDekkerPeterson\ProyectoDekkerPeterson\obj\Debug\ProyectoDekkerPeterson.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\bluxa2017\bluxa\ProyectoDekkerPeterson\ProyectoDekkerPeterson\obj\Debug\ProyectoDekkerPeterson.exe
+C:\Users\Admin\source\repos\bluxa2017\bluxa\ProyectoDekkerPeterson\ProyectoDekkerPeterson\obj\Debug\ProyectoDekkerPeterson.pdb
